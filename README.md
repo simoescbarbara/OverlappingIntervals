@@ -2,6 +2,9 @@
 
 
 ### Implementation of a solution that merge a list of intervals and return a list of intervals as result
+Example: 
+Input [25,30] [2,19] [14,23] [4,8]
+Output [2,23] [25,30]
 
 ## Used technologies
 
@@ -17,6 +20,7 @@
   
 + clone https://github.com/simoescbarbara/OverlappingIntervals.git in your favorite IDE 
 + run Execute.java as a Java Application
++ edit the intervals.csv file if you like
   
 ## Bibliographic references used to build this application 
 
