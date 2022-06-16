@@ -15,8 +15,8 @@
   
 ## How to run the project 
   
-+ git clone 
-+ 
++ clone https://github.com/simoescbarbara/OverlappingIntervals.git in your favorite IDE 
++ run Execute.java as a Java Application
   
 ## Bibliographic references used to build this application 
 
